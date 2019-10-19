@@ -1,0 +1,14 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "main": "event-emitter.js",
+  "author": "bladerunner2020 <pivovarov@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0"
+  }
+}
